@@ -1,0 +1,120 @@
+{
+    "about_me": {
+        "details": [
+            {
+                "title": "First Name",
+                "value": "Abdo"
+            },
+            {
+                "title": "Last Name",
+                "value": "Zenaldeen"
+            },
+            {
+                "title": "Birthdate",
+                "value": "6 Sep 2002"
+            },
+            {
+                "title": "Nationality",
+                "value": "Syrian"
+            },
+            {
+                "title": "Experience",
+                "value": "3 years"
+            },
+            {
+                "title": "Adress",
+                "value": "Istanbul"
+            },
+            {
+                "title": "Freelance",
+                "value": "Available"
+            },
+            {
+                "title": "Languages",
+                "value": "English, Arabic, Turkish"
+            },
+            {
+                "title": "Email",
+                "value": "abdozenaldeen1@gmail.com"
+            },
+            {
+                "title": "Github",
+                "value": "zenalX",
+                "link": ""
+            },
+            {
+                "title": "Fiverr",
+                "value": "zenal_",
+                "link": ""
+            },
+            {
+                "title": "Upwork",
+                "value": "Abdo Z.",
+                "link": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "PYTHON",
+                "ability": 85
+            },
+            {
+                "name": "HTML & CSS",
+                "ability": 60
+            },
+            {
+                "name": "JAVA SCRIPT",
+                "ability": 50
+            },
+            {
+                "name": "FLUTTER",
+                "ability": 90
+            },
+            {
+                "name": "DART",
+                "ability": 80
+            },
+            {
+                "name": "Firebase",
+                "ability": 55
+            },
+            {
+                "name": "FLASK",
+                "ability": 85
+            },
+            {
+                "name": "FASTAPI",
+                "ability": 80
+            },
+            {
+                "name": "WEB SCRAPING",
+                "ability": 55
+            }
+        ]
+    },
+    "portfolio":[
+        {
+          "title": "Cookbook App",
+          "details": "Features multi-database, Firestore for remote database, and Hive for the local database so that users can easily swap between them to store their recipes locally or remotely, having the ability to add in-app subscriptions like letting the remote database be used by a monthly subscription as an example.",
+          "links": [
+            {"name": "GITHUB", "url": "https://github.com/zenalX/cookbook"}
+          ],
+          "background_image":"cookbook_app/background_1x1.png",
+          "images": [
+            "cookbook_app/1.png",
+            "cookbook_app/2.png"
+          ]
+        },
+        {
+          "title": "EFN",
+          "details": "Project description\nthis is a football news app the idea of the project is:there is a server been hosted on Heroku that scrapes a popular sports news website to get specific data and then there is a flutter app that shows the data in a simple way for simple users that don't want complicated things to show on their screens\nFeatures of this project:\n. Python server that I have created\n. Filter mechanism to filter the news to match the user's preferences\n. Multi-languages\n. Dark/light mode\n. Upcoming matches",
+          "links": [
+          ],
+          "background_image":"efn/background_1x1.png",
+          "images": [
+            "efn/1.png",
+            "efn/2.png"
+          ]
+        }
+      ]
+}
