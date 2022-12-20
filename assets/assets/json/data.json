@@ -40,35 +40,27 @@
             {
                 "title": "Github",
                 "value": "zenalX",
-                "link": ""
+                "url": "https://github.com/zenalX"
             },
             {
                 "title": "Fiverr",
                 "value": "zenal_",
-                "link": ""
+                "url": "https://www.fiverr.com/zenal_?up_rollout=true"
             },
             {
                 "title": "Upwork",
                 "value": "Abdo Z.",
-                "link": ""
+                "url": "https://www.upwork.com/freelancers/~01833d9bb4b04febc7"
             }
         ],
         "skills": [
             {
-                "name": "PYTHON",
-                "ability": 85
-            },
-            {
-                "name": "HTML & CSS",
-                "ability": 60
-            },
-            {
-                "name": "JAVA SCRIPT",
-                "ability": 50
-            },
-            {
                 "name": "FLUTTER",
                 "ability": 90
+            },
+            {
+                "name": "PYTHON",
+                "ability": 85
             },
             {
                 "name": "DART",
@@ -89,6 +81,14 @@
             {
                 "name": "WEB SCRAPING",
                 "ability": 55
+            },
+            {
+                "name": "HTML & CSS",
+                "ability": 60
+            },
+            {
+                "name": "JAVA SCRIPT",
+                "ability": 50
             }
         ]
     },
