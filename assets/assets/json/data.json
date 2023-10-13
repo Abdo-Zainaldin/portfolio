@@ -7,7 +7,7 @@
             },
             {
                 "title": "Last Name",
-                "value": "Zenaldeen"
+                "value": "Zainaldin"
             },
             {
                 "title": "Birthdate",
@@ -23,7 +23,7 @@
             },
             {
                 "title": "Adress",
-                "value": "Istanbul"
+                "value": "Germany\n Rheinland-Pfalz"
             },
             {
                 "title": "Freelance",
@@ -31,36 +31,44 @@
             },
             {
                 "title": "Languages",
-                "value": "English, Arabic, Turkish"
+                "value": "English, Arabic, Turkish,\n Kurdish and learning German"
             },
             {
                 "title": "Email",
-                "value": "abdozenaldeen1@gmail.com"
+                "value": "abdozainaldin@gmail.com"
             },
             {
                 "title": "Github",
-                "value": "zenalX",
-                "url": "https://github.com/zenalX"
+                "value": "Abdo-Zainaldin",
+                "link": "https://github.com/Abdo-Zainaldin"
             },
             {
                 "title": "Fiverr",
-                "value": "zenal_",
-                "url": "https://www.fiverr.com/zenal_?up_rollout=true"
+                "value": "Abdo Z.",
+                "link": ""
             },
             {
                 "title": "Upwork",
                 "value": "Abdo Z.",
-                "url": "https://www.upwork.com/freelancers/~01833d9bb4b04febc7"
+                "link": "https://www.upwork.com/freelancers/~01833d9bb4b04febc7"
             }
         ],
         "skills": [
             {
-                "name": "FLUTTER",
-                "ability": 90
-            },
-            {
                 "name": "PYTHON",
                 "ability": 85
+            },
+            {
+                "name": "HTML & CSS",
+                "ability": 60
+            },
+            {
+                "name": "JAVA SCRIPT",
+                "ability": 50
+            },
+            {
+                "name": "FLUTTER",
+                "ability": 90
             },
             {
                 "name": "DART",
@@ -81,40 +89,34 @@
             {
                 "name": "WEB SCRAPING",
                 "ability": 55
-            },
-            {
-                "name": "HTML & CSS",
-                "ability": 60
-            },
-            {
-                "name": "JAVA SCRIPT",
-                "ability": 50
             }
         ]
     },
-    "portfolio":[
+    "portfolio": [
         {
-          "title": "Cookbook App",
-          "details": "Features multi-database, Firestore for remote database, and Hive for the local database so that users can easily swap between them to store their recipes locally or remotely, having the ability to add in-app subscriptions like letting the remote database be used by a monthly subscription as an example.",
-          "links": [
-            {"name": "GITHUB", "url": "https://github.com/zenalX/cookbook"}
-          ],
-          "background_image":"cookbook_app/background_1x1.png",
-          "images": [
-            "cookbook_app/1.png",
-            "cookbook_app/2.png"
-          ]
+            "title": "Cookbook App",
+            "details": "Features multi-database, Firestore for remote database, and Hive for the local database so that users can easily swap between them to store their recipes locally or remotely, having the ability to add in-app subscriptions like letting the remote database be used by a monthly subscription as an example.",
+            "links": [
+                {
+                    "name": "GITHUB",
+                    "url": "https://github.com/Abdo-Zainaldin/cookbook"
+                }
+            ],
+            "background_image": "cookbook_app/background_1x1.png",
+            "images": [
+                "cookbook_app/1.png",
+                "cookbook_app/2.png"
+            ]
         },
         {
-          "title": "EFN",
-          "details": "Project description\nthis is a football news app the idea of the project is:there is a server been hosted on Heroku that scrapes a popular sports news website to get specific data and then there is a flutter app that shows the data in a simple way for simple users that don't want complicated things to show on their screens\nFeatures of this project:\n. Python server that I have created\n. Filter mechanism to filter the news to match the user's preferences\n. Multi-languages\n. Dark/light mode\n. Upcoming matches",
-          "links": [
-          ],
-          "background_image":"efn/background_1x1.png",
-          "images": [
-            "efn/1.png",
-            "efn/2.png"
-          ]
+            "title": "EFN",
+            "details": "Project description\nthis is a football news app the idea of the project is:there is a server been hosted on Heroku that scrapes a popular sports news website to get specific data and then there is a flutter app that shows the data in a simple way for simple users that don't want complicated things to show on their screens\nFeatures of this project:\n. Python server that I have created\n. Filter mechanism to filter the news to match the user's preferences\n. Multi-languages\n. Dark/light mode\n. Upcoming matches",
+            "links": [],
+            "background_image": "efn/background_1x1.png",
+            "images": [
+                "efn/1.png",
+                "efn/2.png"
+            ]
         }
-      ]
+    ]
 }
